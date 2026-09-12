@@ -20,8 +20,8 @@
   "name": "Abonasser",
   "role": "Web Developer",
   "stack": ["JavaScript", "TypeScript", "React", "Node.js"],
-  "mindset": "ship fast, refactor later, break nothing (mostly)",
-  "status": "🟢 online — probably pushing a commit right now"
+  "mindset": ["ship fast", "refactor later", "break nothing MOSTLY"],
+  "status": "online probably pushing a commit right now"
 }
 ```
 
