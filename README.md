@@ -1,91 +1,101 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+ABONASSER;Full+Stack+Web+Developer;Building+things+for+the+web;Always+shipping...+always+learning" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge" alt="Profile Views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=200&section=header&text=ABONASSER&fontSize=60&fontColor=0D1117&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descColor=0D1117" width="100%"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/matrix-code.gif" width="100%" alt="terminal banner"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=root%40abonasser%3A~%24+whoami;%3E+Abonasser+%E2%80%94+Web+Developer;%3E+I+build+things+that+live+on+the+internet;%3E+status%3A+compiling+ideas+into+code..." alt="Typing SVG" />
 
----
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=TRANSMISSIONS+RECEIVED&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
 
-### `whoami`
+</div>
 
-```bash
-> const developer = {
-    name: "abonasser",
-    role: "Web Developer",
-    stack: ["JavaScript", "TypeScript", "React", "Node.js"],
-    currentFocus: "Building scalable web apps",
-    funFact: "I debug with console.log and I'm not ashamed"
-};
+<br/>
+
+```ansi
+┌─[abonasser@dev]─[~]
+└──╼ $ cat identity.json
 ```
 
----
+```json
+{
+  "name": "Abonasser",
+  "role": "Web Developer",
+  "stack": ["JavaScript", "TypeScript", "React", "Node.js"],
+  "mindset": "ship fast, refactor later, break nothing (mostly)",
+  "status": "🟢 online — probably pushing a commit right now"
+}
+```
 
-### `> ls ./tech-stack`
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,git,docker,linux,vscode,figma&theme=dark" />
-</p>
+<div align="center">
 
----
+### ⌁ SYSTEM.TECH_STACK
 
-### `> cat ./github-stats.log`
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,git,docker,linux,vscode,figma,tailwind&theme=dark&perline=7" />
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff" />
-</p>
+<div align="center">
 
----
+### ⌁ SYSTEM.ANALYTICS
 
-### `> tail -f ./roadmap.md` — what's next
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&border_radius=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&border_radius=10" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border_radius=10" />
+
+</div>
+
+<div align="center">
+
+### ⌁ SYSTEM.ACTIVITY_LOG
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=00FF41" />
+
+</div>
+
+<div align="center">
+
+### ⌁ SYSTEM.ACHIEVEMENTS
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+
+</div>
+
+<br/>
 
 ```diff
-+ Deepening my knowledge of system design & scalable architecture
-+ Contributing to open-source projects
-+ Learning Rust / Go for backend performance work
-+ Shipping a SaaS side-project in 2026
-! Always open to collaborating on interesting problems
+┌─[abonasser@dev]─[~]
+└──╼ $ tail -f roadmap.log
+
++ [ACTIVE]   Deepening system design & scalable architecture skills
++ [ACTIVE]   Contributing to open-source
++ [QUEUED]   Learning Rust / Go for backend performance
++ [QUEUED]   Shipping an original SaaS project in 2026
+! [ALWAYS]   Open to collaborating on interesting problems
 ```
 
----
+<br/>
 
-### `> ping abonasser --socials`
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF41" />
-  </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF41" />
-  </a>
-</p>
+### ⌁ SYSTEM.CONNECT
 
----
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
+<a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00FF41" /></a>
+<a href="mailto:YOUR_EMAIL" target="_blank"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
+<a href="https://YOUR_PORTFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF41" /></a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+</div>
 
-<p align="center">
-  <sub><i>> process exited with code 0 — thanks for stopping by ⌁</i></sub>
-</p>
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=100&section=footer" width="100%"/>
+
+<p align="center"><sub><i>&gt; connection closed by root@abonasser — exit code 0 ⌁</i></sub></p>
