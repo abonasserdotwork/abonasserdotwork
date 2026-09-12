@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=root%40abonasser%3A~%24+whoami;%3E+Abonasser+%E2%80%94+Web+Developer;%3E+I+build+things+that+live+on+the+internet;%3E+status%3A+compiling+ideas+into+code..." alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=TRANSMISSIONS+RECEIVED&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=abonasserdotwork&label=TRANSMISSIONS+RECEIVED&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
 
 </div>
 
@@ -41,26 +41,23 @@
 
 ### ⌁ SYSTEM.ANALYTICS
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&border_radius=10" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&border_radius=10" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border_radius=10" />
+<img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=abonasserdotwork&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&border_radius=10" />
+<img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=abonasserdotwork&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&border_radius=10" />
 
 </div>
 
 <div align="center">
 
-### ⌁ SYSTEM.ACTIVITY_LOG
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=00FF41" />
+<img src="https://streak-stats.demolab.com/?user=abonasserdotwork&theme=react&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
 </div>
 
 <div align="center">
 
-### ⌁ SYSTEM.ACHIEVEMENTS
+### ⌁ SYSTEM.STATUS
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+<img src="https://img.shields.io/github/followers/abonasserdotwork?style=for-the-badge&color=0D1117&labelColor=0D1117&logo=github&logoColor=00FF41&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/abonasserdotwork?style=for-the-badge&color=0D1117&labelColor=0D1117&logo=github&logoColor=00FF41&label=STARS" />
 
 </div>
 
@@ -91,10 +88,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=100&section=footer" width="100%"/>
 
