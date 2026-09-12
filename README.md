@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+YOUR_NAME;Full+Stack+Web+Developer;Building+things+for+the+web;Always+shipping...+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+ABONASSER;Full+Stack+Web+Developer;Building+things+for+the+web;Always+shipping...+always+learning" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ```bash
 > const developer = {
-    name: "YOUR_NAME",
+    name: "abonasser",
     role: "Web Developer",
     stack: ["JavaScript", "TypeScript", "React", "Node.js"],
     currentFocus: "Building scalable web apps",
@@ -63,7 +63,7 @@
 
 ---
 
-### `> ping YOUR_NAME --socials`
+### `> ping abonasser --socials`
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
