@@ -80,10 +80,9 @@
 
 ### ⌁ SYSTEM.CONNECT
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
-<a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00FF41" /></a>
-<a href="mailto:YOUR_EMAIL" target="_blank"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
-<a href="https://YOUR_PORTFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF41" /></a>
+<a href="https://www.linkedin.com/in/abonasser" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
+<a href="mailto:abonasser.work@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
+<a href="https://my-portfolio-eosin-alpha-71.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF41" /></a>
 
 </div>
 
