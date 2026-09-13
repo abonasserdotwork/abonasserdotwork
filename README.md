@@ -58,7 +58,7 @@ anomaly_level: mostly stable
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0D0221&amp;height=2&amp;width=800"/>
 </div>
 
-### ⟡ ECHOES DETECTED (visitor &amp; repo signals)
+### ⟡ ECHOES DETECTED (visitor & repo signals)
 
 <div align="center">
 
@@ -74,7 +74,7 @@ anomaly_level: mostly stable
 ### ⟡ TRANSMISSION LOG — WHAT'S BEING BUILT NEXT
 
 ```diff
-+ [MATERIALIZING]   Deepening system design &amp; scalable architecture
++ [MATERIALIZING]   Deepening system design & scalable architecture
 + [MATERIALIZING]   Contributing back to the open-source multiverse
 ~ [FORMING]         Learning Rust / Go — new dialects, same purpose
 ~ [FORMING]         An original SaaS, arriving sometime in 2026
