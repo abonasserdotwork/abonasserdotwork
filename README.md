@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:1E3A8A,100:0F172A&amp;height=210&amp;section=header&amp;text=ABONASSER&amp;fontSize=58&amp;fontColor=F8FAFC&amp;fontAlignY=36&amp;desc=Full%20Stack%20Web%20Developer&amp;descAlignY=55&amp;descColor=94A3B8&amp;animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D0221,50:6A0DAD,100:0D0221&amp;height=210&amp;section=header&amp;text=ABONASSER&amp;fontSize=58&amp;fontColor=E0AAFF&amp;fontAlignY=36&amp;desc=Full%20Stack%20Web%20Developer&amp;descAlignY=55&amp;descColor=C77DFF&amp;animation=fadeIn" width="100%" />
 
 </div>
 
@@ -60,7 +60,7 @@ anomaly_level: mostly stable
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=abonasserdotwork&amp;hide_border=true&amp;background=0D0221&amp;ring=9D4EDD&amp;fire=E0AAFF&amp;currStreakLabel=E0AAFF&amp;sideLabels=C77DFF&amp;dates=6A0DAD" />
+<img src="https://streak-stats.demolab.com/?user=abonasserdotwork&amp;hide_border=true&amp;background=0D0221&amp;ring=FFD700&amp;fire=FFD700&amp;currStreakLabel=FFD700&amp;currStreakNum=FFD700&amp;sideLabels=E0AAFF&amp;sideNums=FFD700&amp;dates=C77DFF" />
 
 </div>
 
